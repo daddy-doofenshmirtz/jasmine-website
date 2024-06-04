@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Manrope);
+body {
+	background-color: rgb(143, 145, 181);
+	color: rgb(84, 27, 117);
+	text-align: center;
+	font-family: 'Manrope';
+	font-size: 17px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+a {
+	color: rgb(84, 27, 117);
+}
+img {
+	margin-top: 20px;
+	margin-bottom: 20px;
+    border-right: 50px solid rgb(113, 87, 158);
+	border-left: 50px solid rgb(113, 87, 158);
+	border-bottom: 50px solid rgb(138, 107, 191);
+	border-top: 50px solid rgb(94, 72, 133);
+	width: 500px;
+}
+p {
+  width: 600px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background-color: white;
+  text-align: center;
+  margin-left: 264px;
+}
